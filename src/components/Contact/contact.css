@@ -1,0 +1,70 @@
+#contact {
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  background-color: var(--color-bg);
+}
+.contact-container {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding: 20px;
+}
+.contact-heading {
+  margin: 10px;
+  padding: 20px;
+}
+.contact-infos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+  width: 80%;
+}
+.contact-info {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 30px;
+  justify-content: space-around;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  box-shadow: 0px 0px 18px 0 #a69cac;
+  transition: 0.3s ease box-shadow;
+  font-size: 20px;
+  background-color: var(--color-bg-variant);
+  color: var(--color-bg);
+}
+h2 > a {
+  color: var(--color-bg);
+}
+.link:hover {
+  color: var(--color-bg);
+}
+
+/* Responsive layout - makes a one column-layout instead of two-column layout */
+@media (max-width: 960px) {
+  .contact-infos,
+  .contact-info {
+    flex-direction: column;
+  }
+  .contact-item {
+    font-size: 40px;
+  }
+  .contact-item > h1 {
+    font-size: 35px;
+  }
+}
+@media (max-width: 960px) {
+  .contact-item {
+    font-size: 8px;
+    padding: 2px;
+  }
+  .contact-info {
+    padding: 2px;
+  }
+}
