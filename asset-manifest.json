@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/swethaa_portfolio/static/css/main.a6f46a9f.css",
-    "main.js": "/swethaa_portfolio/static/js/main.290f3e2b.js",
+    "main.js": "/swethaa_portfolio/static/js/main.40e5baea.js",
     "static/js/787.8d7e1980.chunk.js": "/swethaa_portfolio/static/js/787.8d7e1980.chunk.js",
     "static/media/IMG_0205.jpg": "/swethaa_portfolio/static/media/IMG_0205.a6062a2430d998ed7235.jpg",
     "static/media/Proj6.png": "/swethaa_portfolio/static/media/Proj6.6d15b281cd7c8f4bba43.png",
     "static/media/Proj3.png": "/swethaa_portfolio/static/media/Proj3.dd7f70913522711b937c.png",
     "static/media/Proj5.png": "/swethaa_portfolio/static/media/Proj5.14b1a4f50dc85839a40b.png",
+    "static/media/CV.pdf": "/swethaa_portfolio/static/media/CV.3742a47d06a937d31b32.pdf",
     "static/media/Proj2.png": "/swethaa_portfolio/static/media/Proj2.c1e7bb380c0ab43991b3.png",
     "static/media/Proj1.png": "/swethaa_portfolio/static/media/Proj1.38b85346cf8d20a03304.png",
     "static/media/Proj4.png": "/swethaa_portfolio/static/media/Proj4.8b94e7aaae8721ecd1a0.png",
     "index.html": "/swethaa_portfolio/index.html",
     "main.a6f46a9f.css.map": "/swethaa_portfolio/static/css/main.a6f46a9f.css.map",
-    "main.290f3e2b.js.map": "/swethaa_portfolio/static/js/main.290f3e2b.js.map",
+    "main.40e5baea.js.map": "/swethaa_portfolio/static/js/main.40e5baea.js.map",
     "787.8d7e1980.chunk.js.map": "/swethaa_portfolio/static/js/787.8d7e1980.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6f46a9f.css",
-    "static/js/main.290f3e2b.js"
+    "static/js/main.40e5baea.js"
   ]
 }
