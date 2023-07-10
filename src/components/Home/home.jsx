@@ -1,4 +1,5 @@
 import { Component } from "react";
+import CV from "../../assets/CV.pdf";
 // import Header from "./header";
 // import Pic from "../../assets/Canon_4.jpg";
 // import Socialicon from "./socialicon";
@@ -45,7 +46,7 @@ class Home extends Component {
               </p>
             </div>
             <div className="cta">
-              <a className="btn btn_cta" href="" download>
+              <a className="btn btn_cta" href={CV} download>
                 Download CV
               </a>
               <a className="btn btn_cta" href="#contact">

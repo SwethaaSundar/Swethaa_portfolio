@@ -1,4 +1,4 @@
-import { Component } from "react";
+import { Component, Link } from "react";
 import { AiOutlineHome } from "react-icons/ai";
 import { TbStarsFilled } from "react-icons/tb";
 import { AiOutlineFundProjectionScreen } from "react-icons/ai";
@@ -44,7 +44,7 @@ class Nav extends Component {
             className={this.state.active === "#portfolio" ? "active" : ""}
             href="#portfolio"
           >
-            <AiOutlineFundProjectionScreen />{" "}
+            <AiOutlineFundProjectionScreen />
           </a>
           <a
             onClick={() => this.setState({ active: "#contact" })}

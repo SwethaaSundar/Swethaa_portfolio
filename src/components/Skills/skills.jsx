@@ -71,7 +71,7 @@ class Skills extends Component {
               </div>
             </div>
             <div className="progressBar">
-              <h4>Mongo DB/Mongoose</h4>
+              <h4>Mongo DB</h4>
               <div className="progressBarContainer">
                 <div className="progressBarValue value-40"></div>
               </div>
